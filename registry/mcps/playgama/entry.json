@@ -3,8 +3,8 @@
   "id": "playgama",
   "type": "mcp",
   "name": "Playgama",
-  "tagline": "Publish and manage HTML5 games on Playgama without leaving your editor",
-  "description": "Playgama hosts HTML5 games. This remote server puts the Playgama developer cabinet behind MCP, so the agent creates a game and fills in its form, uploads a build and polls until the engine analysis finishes, uploads covers in the exact sizes the form requires, edits the in-app catalog and leaderboards, gets a QA Tool link, and publishes a sandbox - a public link anyone can play. 20 tools, 10 of them read-only; submitting to moderation, deleting and payouts stay manual. A free token is issued at developer.playgama.com/mcp.",
+  "tagline": "Publish HTML5 games in seconds from your editor - then audience, ad monetization and analytics",
+  "description": "Publish in seconds, get the audience, start monetization, get all analytics - without leaving your editor. Playgama hosts HTML5 games. This remote server puts the Playgama developer cabinet behind MCP, so the agent creates a game and fills in its form, uploads a build and polls until the engine analysis finishes, uploads covers in the exact sizes the form requires, edits the in-app catalog and leaderboards, gets a QA Tool link, and publishes a sandbox - a public link anyone can play. It can also start a Playgama DSP campaign that brings the first players to that sandbox, built from the game's covers, with the first run per game free (beta). 22 tools, 11 of them read-only; submitting to moderation, deleting and payouts stay manual. Once the game clears the session threshold you can switch on rewarded, interstitial and banner ads through Playgama Ad (access by request), and read playtime, retention and revenue in your developer dashboard; payouts start at 100 USD. A free token is issued at developer.playgama.com/mcp.",
   "author": {
     "name": "Playgama",
     "url": "https://playgama.com/"
